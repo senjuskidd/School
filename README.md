@@ -1,2 +1,2 @@
 # School
-Notes from school units
+A Repo for All my Comp Sci Notes
